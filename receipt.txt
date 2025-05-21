@@ -1,0 +1,6 @@
+----- Final Receipt -----
+Shoe x 2 = 600.00
+chocolate x 3 = 600.00
+------------------------
+Total payable: 1200.00
+Thank you for shopping with us!
